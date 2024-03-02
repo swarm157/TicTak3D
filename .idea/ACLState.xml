@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ACLState">
+    <option name="map">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ACLStateItem>
+              <option name="changelog" />
+              <option name="lastInsertedData" />
+            </ACLStateItem>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

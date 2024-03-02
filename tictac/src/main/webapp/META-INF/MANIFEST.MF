@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: tictak
+Implementation-Version: 1.4.3-SNAPSHOT
+Built-By: Win10_Game_OS
+Implementation-Vendor-Id: ru.nightmare.tictak3d
+Created-By: Apache Maven 3.8.1
+Build-Jdk: 1.8.0_372
+Implementation-URL: http://projects.spring.io/spring-boot/tictak/
+Implementation-Vendor: Pivotal Software, Inc.
+

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tictac:war">
+    <output-path>$PROJECT_DIR$/tictac/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>tictac</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="tictak-1.4.3-SNAPSHOT.war">
+      <element id="artifact" artifact-name="tictac:war exploded" />
+    </root>
+  </artifact>
+</component>
